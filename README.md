@@ -24,7 +24,7 @@ where D is a hillslope diffusivity or transport-rate coefficient with dimensions
 
 For a better understanding of the Sediment diffusion equation, see: 
 
-- [Culling, W. (1963)](https://dx.doi.org/10.1086/626891). Soil Creep and the Development of Hillside Slopes. The Journal of Geology 71(2), 127-161.
+- [Culling, W. (1963)](https://dx.doi.org/10.1086/626891). _Soil Creep and the Development of Hillside Slopes_. The Journal of Geology 71(2), 127-161.
 
 Focusing on the fluvial erosion process, the landscape evolves according to the equation:
 
@@ -34,7 +34,7 @@ where $K_{sp}$ is the erodibility coefficient related with climate and lithology
 
 For a great overview of the stream power equation, see: 
 
-- [Whipple and Tucker, 1999](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/1999JB900120) Dynamics of the stream-power river incision model: Implications for height limits of mountain ranges, landscape response timescales, and research needs, Journal of Geophysical Research. 
+- [Whipple and Tucker, 1999](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/1999JB900120) _Dynamics of the stream-power river incision model: Implications for height limits of mountain ranges, landscape response timescales, and research needs_, Journal of Geophysical Research. 
 
 According to the equations, there are several factors controlling surface evolution. In this notebook, we will explore the surface and river evolution as a result of diffusion erosion coefficient, lithology, uplift, and precipitation by using landlab, a Python-based modeling environment.
 
