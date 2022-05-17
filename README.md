@@ -2,13 +2,23 @@
 
 ![image](https://user-images.githubusercontent.com/10188895/168928493-5319e647-3668-4463-be5d-b59788fa22fb.png)
 
-## Introduction
+## Learning Goals 
+
+This is a modular course which allow students to explore the *long-term* evolution of landscapes using the Stream Power Law and Hillslope Diffusion models. During the course students will 
+
+- Understand how to implement a long-term landscape evolution model in `LandLab`.
+- Demonstrate the effects of changing the diffusivity and erodibility parameters on landscape evolution
+- Explore the impact of different spatial patterns of uplift 
+- Investigate the impact of orographic rainfall on landscape evolution
+- Become familiar with the role of different lithological rock strength
+
+## Theory
 
 Sediment diffusion and river incision process are essential tools that control landscape evolution.
 
 Focusing on Sediment diffusion, the landscape evolves according to the equation:
 
-$$\frac{\partial z}{\partial t} = D \nabla^2 z$$.
+$ \frac{\partial z}{\partial t} = D \nabla^2 z $
 
 where D is a hillslope diffusivity or transport-rate coefficient with dimensions of length squared per time and $z$ is elevation.
 
