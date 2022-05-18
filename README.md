@@ -56,7 +56,9 @@ Click the link below to explore the effect of each factor on long-term landscape
 4. [Lithology & Sediment Provenance](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/lithology.ipynb)
 
 ![provenance](https://user-images.githubusercontent.com/10188895/168963151-605ba3a3-6918-4540-8455-ffe421f8e5d5.png)
+
 5. [Synthesis - All variables at once](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/synthesis.ipynb)
+
 ![image](https://user-images.githubusercontent.com/10188895/168928493-5319e647-3668-4463-be5d-b59788fa22fb.png)
 
 
