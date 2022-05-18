@@ -53,6 +53,8 @@ Click the link below to explore the effect of each factor on long-term landscape
 4. [Lithology](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/lithology.ipynb)
 5. [Synthesis - All variables at once](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/synthesis.ipynb)
 
-This lesson was part of the CSDMS spring school 2022
-</br>
-[Community Surface Dynamics Modeling System ](https://csdms.colorado.edu)(CSDMS).
+This lesson was part of the [Community Surface Dynamics Modeling System ](https://csdms.colorado.edu)(CSDMS) spring school 2022
+
+![Uplift](https://user-images.githubusercontent.com/10188895/168959615-c564009d-fa1b-4322-acc9-a19198c83070.png)
+
+
