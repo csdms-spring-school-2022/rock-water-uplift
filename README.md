@@ -38,6 +38,8 @@ For a great overview of the stream power equation, see:
 
 According to the equations, there are several factors controlling surface evolution. In this notebook, we will explore the surface and river evolution as a result of diffusion erosion coefficient, lithology, uplift, and precipitation by using landlab, a Python-based modeling environment.
 
+![precipitation](https://user-images.githubusercontent.com/10188895/168962321-9f5f2707-e00d-4117-89d2-4c7ad59ad9dd.png)
+
 ## Method
 
 In this repository, we use `LandLab`, a Python-based modeling environment, to allow students to understand how the diffusivity and erodibility coefficient, lithology, rock uplift rates, and precipitation all control the surface and river network evolution. 
