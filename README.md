@@ -1,5 +1,12 @@
 # Exploring the controls on long-term landscape evolution 
 
+Teaching workbook created as part of a group project at the CSDMS Spring School 2022.
+
+Team members: 
+* Alex Lipp, Imperial College London
+* Boontigan Kuhasubpasin, UCLA
+* Jedidiah Dale, Washington University 
+* Marina Ruiz Sanchez-Oro, University of Edinburgh 
 
 ## Learning Goals 
 
@@ -17,7 +24,8 @@ Sediment diffusion and river incision process are essential tools that control l
 
 Focusing on Sediment diffusion, the landscape evolves according to the equation:
 
-$ \frac{\partial z}{\partial t} = D \nabla^2 z $
+![lagrida_latex_editor(1)](https://user-images.githubusercontent.com/22777013/169076010-1aced4a9-5268-4b05-8131-d3ba6ef3c3c6.png)
+
 
 where D is a hillslope diffusivity or transport-rate coefficient with dimensions of length squared per time and $z$ is elevation.
 
@@ -27,9 +35,15 @@ For a better understanding of the Sediment diffusion equation, see:
 
 Focusing on the fluvial erosion process, the landscape evolves according to the equation:
 
-$$\frac{d z}{d t} = -K_\text{sp} A^{m_{sp}} S^{n_{sp}} + U$$.
+![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/22777013/169076527-8aa9486f-fce4-4697-b837-0af115002c81.png)
 
-where $K_{sp}$ is the erodibility coefficient related with climate and lithology. $m_{sp}$ and $n_{sp}$ are positive exponents (usually thought to have a ratio, $m_{sp}/n_{sp} \approx 0.5$). $A$ is drainage area and $S$ is the slope of steepest descent. ($-\frac{dz}{dx}$) where $x$ is horizontal distance and $z$ is elevation. $U$ is an externally-applied rock uplift field.
+
+where *K_sp* is the erodibility coefficient related with climate and lithology. *m_sp* and *n_sp* are positive exponents. These are usually thought to have the ratio:
+
+![lagrida_latex_editor(4)](https://user-images.githubusercontent.com/22777013/169078313-a9334b1d-3548-4ff2-a5d5-789efeb1442b.png)
+
+
+*A* is drainage area and *S* is the slope of steepest descent. In *-dz/dx*, *x* is horizontal distance and *z* is elevation. *U* is an externally-applied rock uplift field.
 
 For a great overview of the stream power equation, see: 
 
