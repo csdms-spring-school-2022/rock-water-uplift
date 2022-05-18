@@ -1,6 +1,5 @@
 # Exploring the controls on long-term landscape evolution 
 
-![image](https://user-images.githubusercontent.com/10188895/168928493-5319e647-3668-4463-be5d-b59788fa22fb.png)
 
 ## Learning Goals 
 
@@ -38,7 +37,6 @@ For a great overview of the stream power equation, see:
 
 According to the equations, there are several factors controlling surface evolution. In this notebook, we will explore the surface and river evolution as a result of diffusion erosion coefficient, lithology, uplift, and precipitation by using landlab, a Python-based modeling environment.
 
-![precipitation](https://user-images.githubusercontent.com/10188895/168962321-9f5f2707-e00d-4117-89d2-4c7ad59ad9dd.png)
 
 ## Method
 
@@ -51,12 +49,13 @@ Click the link below to explore the effect of each factor on long-term landscape
 **We will explore...**
 1. [Changing erosional parameters](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/erosion.ipynb)
 2. [Uplift pattern](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/uplift.ipynb)
+![Uplift](https://user-images.githubusercontent.com/10188895/168959615-c564009d-fa1b-4322-acc9-a19198c83070.png)
 3. [Orographic precipitation]()
+![precipitation](https://user-images.githubusercontent.com/10188895/168962321-9f5f2707-e00d-4117-89d2-4c7ad59ad9dd.png)
 4. [Lithology](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/lithology.ipynb)
 5. [Synthesis - All variables at once](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/synthesis.ipynb)
+![image](https://user-images.githubusercontent.com/10188895/168928493-5319e647-3668-4463-be5d-b59788fa22fb.png)
+
 
 This lesson was part of the [Community Surface Dynamics Modeling System ](https://csdms.colorado.edu)(CSDMS) spring school 2022
-
-![Uplift](https://user-images.githubusercontent.com/10188895/168959615-c564009d-fa1b-4322-acc9-a19198c83070.png)
-
 
