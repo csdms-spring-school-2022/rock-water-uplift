@@ -17,6 +17,7 @@ Sediment diffusion and river incision process are essential tools that control l
 
 Focusing on Sediment diffusion, the landscape evolves according to the equation:
 
+<img src="https://render.githubusercontent.com/render/math?math= \frac{\partial z}{\partial t} = D \nabla^2 z">
 $ \frac{\partial z}{\partial t} = D \nabla^2 z $
 
 where D is a hillslope diffusivity or transport-rate coefficient with dimensions of length squared per time and $z$ is elevation.
