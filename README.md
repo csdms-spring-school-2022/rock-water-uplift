@@ -47,9 +47,9 @@ The major Landlab components that we will use in this notebook include `FlowAccu
 Click the link below to explore the effect of each factor on long-term landscape evoluion.
 
 **We will explore...**
-1. [K_sp and D](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/erosion.ipynb)
-2. [Uplift rate]()
-3. [Precipitation]()
+1. [Changing erosional parameters](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/erosion.ipynb)
+2. [Uplift pattern](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/uplift.ipynb)
+3. [Orographic precipitation]()
 4. [Lithology](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/lithology.ipynb)
 5. [Synthesis - All variables at once](https://github.com/csdms-spring-school-2022/rock-water-uplift/blob/main/synthesis.ipynb)
 
